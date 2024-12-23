@@ -1,0 +1,146 @@
+#: locale=zh
+
+## E-Learning
+
+### Answer
+questionOption_E3906B9C_F477_422B_41E2_C0B668AF9166.text = 不好玩，一顆星
+questionOption_D4F3AEBC_F4D1_C26B_41BA_6FC5EB695F7D.text = 主角精神壓力太大
+questionOption_D6867AC9_F4D1_C22D_41D7_97CBE986BEB4.text = 主角視力變差
+questionOption_ECC864D4_F472_C63B_41ED_CA793A723843.text = 你是主角的第二視角，即第二人格
+questionOption_ECF2559F_F472_C625_41AF_1085577F696B.text = 你是玩家，亦是主角
+questionOption_D55FFEF0_F4D6_C3FA_41EC_792EB3F1FF9B.text = 傢俱太久沒使用所以積灰了
+questionOption_D4E9DCBF_F4D1_C665_41E0_747316F8F63F.text = 傢俱被整理過了
+questionOption_E3FAD971_F477_4EFD_41D5_13805B3106A6.text = 好玩吧，"主角"很開心。
+questionOption_EC51DDC5_F471_4625_41DD_155DEF94F2EE.text = 我也是主角。
+questionOption_EC49F252_F471_423F_41EA_E31AE9699BF5.text = 我也是主角。
+questionOption_EC70A610_F471_423B_41E1_54FA54F590DA.text = 我也是主角。
+questionOption_D561B106_F4D6_DE27_41E7_208605E3C7CE.text = 房屋年久失修導致電燈壞掉，加上主角心理問題作祟
+questionOption_D41772C7_F4D3_4225_41EC_CE8AE22AA6DE.text = 有蟑螂
+questionOption_D440B58F_F4D3_4625_41CA_76E5CA710185.text = 熟悉的傢俱產生了變化
+questionOption_D444473F_F4D3_4265_41EE_89DAC43A0714.text = 燈光太暗
+questionOption_ECFBC980_F472_CE1B_41E3_C360733CCEF0.text = 第一關只有"主角"的視角，第二關是你和"主角"的視角
+questionOption_D556ADC5_F4D6_C625_41CB_588CDCBC956B.text = 這個家庭關係緊張，可能導致了主角有心理疾病
+
+### Question
+question_E334DFCC_F477_C22B_41E8_D5BF948E7A7D.title = 1.你覺得遊樂園好玩嗎?
+question_D6890F9D_F4D3_C225_41E6_E7909A892BCB.title = 1.家裡看起來有些奇怪的原因
+question_E3943F5F_F476_C225_41ED_3789B172D827.title = 2.你是誰?
+question_D55EC8C5_F4D1_4E1A_41DB_2DD51DE022B0.title = 2.傢俱看起來產生變化的原因是...?
+question_EC212A0B_F471_422C_41BC_BC3D59DC6E9E.title = 3.-故事真相是?
+question_D501A3CB_F4D6_C22D_41EC_9050ED84E126.title = 3.從這些異常和線索能知道...
+
+### Question Screen
+quizQuestion_F30AB73C_EAF6_BC5A_41DB_26E432602317.ok = OK
+
+### Report Screen
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.title = - SCORE -
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.completion = Completed
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.questionsCorrect = Correct
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.downloadCSV = Download .csv
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.questionsIncorrect = Incorrect
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.items = Items Found
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.questions = Questions
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.repeat = Repeat
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.submitToLMS = Submit
+quizScore_F308973C_EAF6_BC5A_41E2_2A71C3EDFCD1.elapsedTime = Time
+
+### Score Name
+score1.label = Score1
+
+### Timeout Screen
+quizTimeout_F304473C_EAF6_BC5A_41D8_5428A7EF7BEE.title = - TIMEOUT -
+quizTimeout_F304473C_EAF6_BC5A_41D8_5428A7EF7BEE.repeat = Repeat
+quizTimeout_F304473C_EAF6_BC5A_41D8_5428A7EF7BEE.score = View Score
+
+## Media
+
+### Audio
+audiores_E9911BD4_F398_09D3_41E2_F59A4B68DE70.mp3Url = media/audio_E9F5338D_F398_1A4D_41CC_CA954FDF9D37_zh.mp3
+
+### Audio Subtitles
+
+### Floorplan
+
+### Image
+imlevel_D5A254E4_F4CF_C61B_41D1_4B7541C2D1F6.url = media/map_E311989D_F471_4E25_41D8_0FDEF38086F8_zh_0.webp
+imlevel_D5A264E4_F4CF_C61B_41CA_76EB9FEAA7EC.url = media/map_E311989D_F471_4E25_41D8_0FDEF38086F8_zh_1.webp
+imlevel_D5A274E4_F4CF_C61B_41E8_721B60F31847.url = media/map_E311989D_F471_4E25_41D8_0FDEF38086F8_zh_2.webp
+imlevel_D5A384E4_F4CF_C61B_41A7_05C10D8A1ED5.url = media/map_E311989D_F471_4E25_41D8_0FDEF38086F8_zh_3.webp
+imlevel_D5A394E4_F4CF_C61B_41C1_79DE5BC9C522.url = media/map_E311989D_F471_4E25_41D8_0FDEF38086F8_zh_4.webp
+imlevel_D5A0C359_F4CF_C22D_41C6_9971D99695B8.url = media/map_E312454F_F471_4625_41DC_76CD8B9B6FD8_zh_0.webp
+imlevel_D5A0D359_F4CF_C22D_41E9_3729F4DB059F.url = media/map_E312454F_F471_4625_41DC_76CD8B9B6FD8_zh_1.webp
+imlevel_D5A0E359_F4CF_C22D_41E0_AA24B86A0478.url = media/map_E312454F_F471_4625_41DC_76CD8B9B6FD8_zh_2.webp
+imlevel_D5A0F359_F4CF_C22D_41EB_4A8AC7209B29.url = media/map_E312454F_F471_4625_41DC_76CD8B9B6FD8_zh_3.webp
+imlevel_D5A00359_F4CF_C22D_41C3_E1CE2483AADD.url = media/map_E312454F_F471_4625_41DC_76CD8B9B6FD8_zh_4.webp
+imlevel_D5A2943A_F4CF_C66F_41E7_4526EE7E4815.url = media/map_EA531AF4_F431_43FA_41C3_4FC35FFF967D_zh_0.webp
+imlevel_D5A2A43A_F4CF_C66F_41E6_AF6A1CABB178.url = media/map_EA531AF4_F431_43FA_41C3_4FC35FFF967D_zh_1.webp
+imlevel_D5A2B43A_F4CF_C66F_41D0_07B75B2AA008.url = media/map_EA531AF4_F431_43FA_41C3_4FC35FFF967D_zh_2.webp
+imlevel_D5A2C43A_F4CF_C66F_41ED_E4D53B80CB43.url = media/map_EA531AF4_F431_43FA_41C3_4FC35FFF967D_zh_3.webp
+imlevel_D5A2D43A_F4CF_C66F_41E7_C5E7D1947751.url = media/map_EA531AF4_F431_43FA_41C3_4FC35FFF967D_zh_4.webp
+
+### Title
+album_F6F92893_EACF_542E_41CC_267B3B857826.label = Photo Album 家秘日記_Logo(自帶光暈)
+map_E312454F_F471_4625_41DC_76CD8B9B6FD8.label = 客廳平面圖
+album_F6F92893_EACF_542E_41CC_267B3B857826_0.label = 家秘日記_Logo(自帶光暈)
+panorama_FA4D777E_EA51_5CD6_41AC_392F3268C63B.label = 家裡(真的太難ㄌ歐買尬 他不知道家裡應該長怎樣
+panorama_E6F51129_EA56_B47B_41C7_90A599E6A1BD.label = 家裡_有點晚
+panorama_F2B31955_EAD1_542B_41DD_90BFC655342A.label = 房間_有點晚
+map_EA531AF4_F431_43FA_41C3_4FC35FFF967D.label = 房間平面圖
+panorama_F3B79F2A_EAD1_6C79_41E3_C6DA693B15F0.label = 房間（我看透ㄌ 他對室內超沒想法ㄉ
+panorama_E6CB4B16_EA56_B456_41D3_49C4CE441ADF.label = 遊樂園_有點晚
+panorama_E6CBA47E_EA56_DCD6_41DE_B0BDDC98D3CA.label = 遊樂園_紅色賽車場_綠色迷宮_帳篷射擊(理論上要有浮水印但不知道為什麼他沒有
+map_E311989D_F471_4E25_41D8_0FDEF38086F8.label = 遊樂園平面圖
+
+## Popup
+
+### Body
+htmlText_ECC51C5E_F388_0ECF_41DD_2736C0B375C3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「上一次全家一起出門的家庭旅行是什麼時候呢?可惜這次不能一起去遊樂園玩」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E387FEB2_F451_C27F_41E3_3CB061D049A4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「冬天的噴水池，靠近就有一股寒意。」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E2C81867_F433_4EE5_41D3_D6A94B9AD8B1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「努力的證明，媽媽很喜歡這些獎盃」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E32E3362_F451_421F_41C1_86138E5C97FD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「噴水池很大，感覺可以在裡面游泳了」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_EC8C9283_F453_421D_41E1_FE4A0F4CF6E2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「很熱鬧的樣子。」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_EF25DC96_F398_0E5C_41C2_8E1D2D28995E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「最近學校的課業重，很難有時間能好好休息」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E286AC4D_F457_4625_41E0_CEF0BF382DAB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「看起來很好玩!可惜媽媽不准我靠近」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_ED70F5DE_F388_79CF_4199_0E56A570326F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「自從那次爸爸媽媽吵架後，好久沒看到爸爸了」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_ECF43AB1_F452_C27D_41EA_46BA81624B4E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「花很香，是沒看過的花。」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E289DC56_F431_4627_41DF_98B13458D6C7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「越來越害怕坐在書桌前了，努力真的會有收穫嗎?」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E3DBAE77_F431_42E5_41E8_00CCA6F27319.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「這裡是房間裡最不壓抑的地方」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_EEE90FC7_F3B8_0A3D_41DD_35FD849B2885.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「這裡看起來蠻乾淨的，記得之前這裡還有放一些雜物，怎麼不見了呢?」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_ED535583_F452_C61E_41E6_543E85E1EDCA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">「門口的花香味好重，有點受不了」</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_F343C3ED_EAF6_BBFA_41D7_29CA186D3970.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'台灣圓體-SemiBold';">在學校上完一整天的課後，回到家的你正想好好休息一下，卻發現家裡似乎有些違和感?</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'台灣圓體-SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'台灣圓體-SemiBold';">請找出"你"認為奇怪的地方</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'台灣圓體-SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'台灣圓體-SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'台灣圓體-SemiBold';">規則介紹</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'台灣圓體-SemiBold';">點擊吉祥物-MONIMO，即可查看不同視角，尋找相異處，點擊叉叉即可離開，前往不同區域探索，每個地方均有線索可以查看，方便答題。</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">*建議蒐集完所有線索再作答</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">*線索藏在家具中 ，點擊家具即可查看</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">*提示：客廳內有4個線索</SPAN></DIV></BODY></HTML></div>
+htmlText_E3AB20EE_F452_DFE7_41E2_7FBB1BECCFC7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'台灣圓體-SemiBold';">過了幾天後...</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'台灣圓體-SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'台灣圓體-SemiBold';">到了"主角"家庭旅遊的日子，雖然只能和媽媽一起來，但能出門玩"主角"還是很開心</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'台灣圓體-SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'台灣圓體-SemiBold';">雖然感覺外面的樣子看起來也很奇怪...</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">*提示：這有共有6個線索，全部找完即可答題</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_E3A9BCAC_F436_C66B_41E8_F5C150EA7A98.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'台灣圓體-SemiBold';">請找出"你"認為奇怪的地方</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'台灣圓體-SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">*建議蒐集完所有線索再作答</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">*線索藏在家具中 ，點擊家具即可查看</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">*提示：房間內有3個線索</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_F37583E7_EAF6_BBF7_41D8_AAE88DF31FF0.title = 前情提要
+window_E3AF9CAC_F436_C66B_41E3_BB5C17A50D4D.title = 提示
+window_EEEB2FC7_F3B8_0A3D_41EE_564A9A1FCBEC.title = 線索
+window_EF243C96_F398_0E5C_41ED_6AECAA74F505.title = 線索
+window_ED4F35DE_F388_79CF_41EE_04C7CB1EE167.title = 線索
+window_ED4D5583_F452_C61E_419B_4AEB3D349B6D.title = 線索
+window_ECC72C5E_F388_0ECF_41D9_EC743B683E62.title = 線索
+window_E32FE362_F451_421F_41D6_273533C685A7.title = 線索
+window_E385CEB2_F451_C27F_41DB_8C3AFEEA914E.title = 線索
+window_EC81727E_F453_42E7_41B8_337F95270789.title = 線索
+window_ECF61AB0_F452_C27B_41E4_FE8BD5B4F810.title = 線索
+window_E2CA2867_F433_4EE5_41E9_7C6B8B755B24.title = 線索
+window_E2847C4D_F457_4625_41C2_B3734D61715E.title = 線索
+window_E28BFC55_F431_4624_41CD_9F504F9E18D1.title = 線索
+window_E3E57E76_F431_42E7_41ED_8B4C9C638AA7.title = 線索
+
+## Skin
+
+### Multiline Text
+HTMLText_EEE3F8A0_F471_4E1B_41ED_AE964FAFA1C5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'俐方體11號';"><B>階段1</B></SPAN></SPAN></DIV></div>
+HTMLText_FC19C63F_EAD6_DC56_41E0_943D91AD33A9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'俐方體11號';"><B>階段1</B></SPAN></SPAN></DIV></div>
+HTMLText_EFA06284_F44E_C21B_41E6_2F3B8C3CAE81.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'俐方體11號';"><B>階段1</B></SPAN></SPAN></DIV></div>
+HTMLText_EF8E0555_F44E_C63A_41ED_630C0A252144.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'俐方體11號';"><B>階段2</B></SPAN></SPAN></DIV></div>
+HTMLText_FDB609C5_EAD7_B42B_41E1_DFDC360F21E7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'俐方體11號';"><B>階段2</B></SPAN></SPAN></DIV></div>
+HTMLText_EF01F6C4_F471_421A_41ED_D82F5324AC68.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'台灣圓體-SemiBold';"><B>階段2</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
